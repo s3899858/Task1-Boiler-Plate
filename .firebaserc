@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "REPLACE_WITH_FIREBASE_PROJECT_ID"
+    "default": "capstone-task1-cdc38"
   },
   "targets": {},
   "etags": {}
